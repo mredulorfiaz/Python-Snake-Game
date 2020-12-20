@@ -1,4 +1,4 @@
-# Python TicTacToe Game
+# Python Snake Game
 
 ## Used modules
 
